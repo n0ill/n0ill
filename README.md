@@ -1,8 +1,8 @@
 <table>
   <tr>
-    <!-- LEFT SIDE: Your Luffy Image --> https://i.pinimg.com/1200x/ea/5d/cb/ea5dcb5f5806ac51acec042b2f762046.jpg
+    <!-- LEFT SIDE: Your Luffy Image -->
     <td valign="top" width="40%">
-      <img src="luffy.png" width="100%">
+      <img src="https://pinimg.com" width="100%">
     </td>
     
     <!-- RIGHT SIDE: Your Text & colored headers -->
