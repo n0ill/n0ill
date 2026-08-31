@@ -1,8 +1,8 @@
 <table>
   <tr>
-    <!-- LEFT SIDE: Your Image -->
+    <!-- LEFT SIDE: Your Luffy Image --> https://i.pinimg.com/1200x/ea/5d/cb/ea5dcb5f5806ac51acec042b2f762046.jpg
     <td valign="top" width="40%">
-      <img src="https://i.pinimg.com/1200x/ea/5d/cb/ea5dcb5f5806ac51acec042b2f762046.jpg" width="100%">
+      <img src="luffy.png" width="100%">
     </td>
     
     <!-- RIGHT SIDE: Your Text & colored headers -->
@@ -11,10 +11,10 @@
         $\color{#8d2a2a}{\text{You\ want\ to\ keep\ everyone\ from\ dying?\ That's\ naive.\ It's\ war.\ People\ die.}}$
       </p>
       <p>
-        | <b>noxis</b> &nbsp;&nbsp; ⚔️ <b>he/star</b> &nbsp;&nbsp; 🏴‍☠️ <b>transmasc</b>
+        | <b>noxis</b> &nbsp;&nbsp; ⚔️ <b>he/star</b> &nbsp;&nbsp; 💥 <b>transmasc</b>
       </p>
       <p>
-         <b>fav arc:</b> wano / skypiea
+        | <b>fav arc:</b> wano / skypiea
       </p>
       <p>
         | <b>fixation:</b> zosan / kidlawz
