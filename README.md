@@ -10,7 +10,7 @@
       <br>
       | <b>fav arc:</b> wano / skypiea
       <br>
-      | <b>fixation:</b> zosan / kidlawz
+      | <b>ships:</b> zosan / kidlawz
     </td>
   </tr>
 </table>
